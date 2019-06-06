@@ -1,0 +1,26 @@
+= ISO/TC 211 Registries site: registry.isotc211.org
+
+image:https://travis-ci.com/ISO-TC211/registry.isotc211.org.svg?branch=master[
+	Build Status, link="https://travis-ci.com/ISO-TC211/registry.isotc211.org"]
+
+== Introduction
+
+The "`ISO/TC 211 Registries site`" is used to provide the full list
+of registries run by ISO/TC 211.
+
+This repository is used to build and deploy the
+https://registry.isotc211.org site.
+
+This repository is jointly managed by ISO/TC 211 and Ribose.
+
+
+== Building the site
+
+[source,sh]
+----
+# removes site artifacts
+make clean
+
+# makes _site
+make all
+----

@@ -1,0 +1,29 @@
+---
+layout: home
+permalink: /
+---
+:page-liquid:
+
+[.section]
+== Registries
+
+=== ISO Geodetic Registry
+
+The ISO Geodetic Registry is located at: https://geodetic.isotc211.org.
+
+It could also be reached from https://registry.isotc211.org/geodetic.
+
+
+[.section]
+== Maintenance
+
+Comments, suggestions, change requests and revisions
+to ISO/TC 211 Registries are maintained in the
+https://github.com/ISO-TC211/registry.isotc211.org[GitHub repository]
+for the ISO/TC 211 Resources group.
+
+For more information, please visit
+the https://committee.iso.org/home/tc211[ISO/TC 211 committee page] and
+the https://www.isotc211.org[ISO/TC 211 resources page].
+
+This site is managed by the ISO/TC 211 Resources Group and Ribose.

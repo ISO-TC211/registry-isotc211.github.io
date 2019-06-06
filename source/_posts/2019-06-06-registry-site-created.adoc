@@ -1,0 +1,22 @@
+---
+layout: post
+title:  ISO/TC 211 Registries site launched!
+date:   2019-06-06 11:00:00 +0800
+categories: site update
+---
+The "`ISO/TC 211 Registries site`" is now launched.
+
+Previously, https://registry.isotc211.org pointed to the
+ISO Geodetic Registry.
+
+In the 48th Plenary of ISO/TC 211, it has been decided that
+https://registry.isotc211.org will point to all ISO/TC 211
+registries, and the ISO Geodetic Registry should be migrated
+to https://geodetic.isotc211.org, at the recommendation
+by HMMG and the ISO Geodetic Registry Control Body.
+
+Therefore this site will provide reference to all ISO/TC 211
+registries.
+
+This action is performed by the official web host of
+ISO/TC 211, https://www.ribose.com[Ribose].
