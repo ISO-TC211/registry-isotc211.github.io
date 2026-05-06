@@ -5,24 +5,22 @@ all: _site
 bundle:
 	bundle
 
+npm:
+	npm install
+
 clean:
 	bundle exec jekyll clean
 	rm -rf build_source
 
 build_source:
-	mkdir -p $@; \
+	rm -rf $@
+	mkdir -p $@
 	cp -a source/* build_source
 
-_site: bundle build_source
+_site: bundle npm build_source
 	bundle exec jekyll build
 
-serve: _site
+serve: bundle npm build_source
 	bundle exec jekyll serve
 
-update-init:
-	git submodule update --init
-
-update-modules:
-	git submodule foreach git pull origin master
-
-.PHONY: all clean serve update-init update-modules
+.PHONY: all clean serve bundle npm
