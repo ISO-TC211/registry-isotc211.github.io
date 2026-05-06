@@ -3,3 +3,6 @@
 _site
 build_source/*
 Gemfile.lock
+.jekyll-cache
+node_modules
+vendor
