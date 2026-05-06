@@ -33,6 +33,8 @@ plugins:
   - jekyll-asciidoc
 
 nav:
+  - title: News
+    url: /news/
   - title: ISO/TC 211 Resources
     url: https://www.isotc211.org
 
