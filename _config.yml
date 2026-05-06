@@ -1,6 +1,6 @@
 title: ISO/TC 211 Registries
 title_html: "ISO/TC&nbsp;211 Registries"
-brand_sub: "Geodetic Registry"
+brand_sub: "Harmonized Resources Maintenance Agency"
 
 theme: jekyll-theme-isotc211
 
@@ -33,7 +33,7 @@ plugins:
   - jekyll-asciidoc
 
 nav:
-  - title: ISO/TC 211
+  - title: ISO/TC 211 Resources
     url: https://www.isotc211.org
 
 footer_links:
