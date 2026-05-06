@@ -54,7 +54,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
-    jekyll-theme-isotc211 (1.0.0)
+    jekyll-theme-isotc211 (1.0.1)
       jekyll (~> 4.3)
     jekyll-vite (3.0.4)
       jekyll (>= 3, < 5)
