@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Site redesigned with modern theme and unified design system
+date:   2026-05-06 12:00:00 +0800
+categories: site update
+---
+The "`ISO/TC 211 Registries site`" has been redesigned with a modern
+interface built on the shared https://github.com/ISO-TC211/jekyll-theme-isotc211[jekyll-theme-isotc211]
+design system.
+
+== What's new
+
+* **Unified design system** --
+The site now uses the shared `jekyll-theme-isotc211` gem,
+providing a consistent look and feel across all ISO/TC 211 web properties,
+including https://www.isotc211.org[www.isotc211.org],
+https://standards.isotc211.org[standards.isotc211.org], and this site.
+
+* **Modern frontend stack** --
+Built with Jekyll 4.3, Vite, and Tailwind CSS v4,
+featuring dark mode support and responsive design.
+
+* **Registry hub** --
+The site serves as a central hub linking to all official ISO/TC 211 registries:
+
+  * **ISO Geodetic Registry** (geodetic.isotc211.org) — official geodetic register maintained by the ISO Geodetic Registry Control Body
+  * **Normative Statements & Conformance** (standards.isotc211.org) — URI dereferencing for requirements and conformance classes
+  * **XML & JSON Schemas** (schemas.isotc211.org) — schema repository maintained by the ISMG
+  * **Terminology / MLGT** (isotc211.geolexica.org) — Multi-Lingual Glossary of Terms maintained by the TMG
+  * **Ontologies** (def.isotc211.org) — ontologies maintained by the GOM
+  * **UML Models** (iso.sparxcloud.com) — harmonized UML models hosted at SparxCloud by the HMMG
+
+* **Continuous integration** --
+Automated build, deploy, and link checking via GitHub Actions with the latest
+actions versions.
+
+This action is performed by
+https://www.ribose.com[Ribose].
