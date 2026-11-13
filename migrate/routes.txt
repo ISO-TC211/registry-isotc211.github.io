@@ -1,0 +1,5 @@
+/
+/news/
+/404.html
+/site/update/2019/06/06/registry-site-created.html
+/site/update/2026/05/06/site-redesign-modern-theme.html

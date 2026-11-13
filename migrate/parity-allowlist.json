@@ -1,0 +1,25 @@
+{
+  "removed": [
+    "vite/assets/application-CclK2K6t.js",
+    "vite/assets/application-DNBt1lHd.css",
+    "vite/assets/application-Dz7ZYqm9.css"
+  ],
+  "added": [
+    "_astro/**",
+    "assets/apple-touch-icon.png",
+    "assets/favicon-96x96.png",
+    "assets/favicon.ico",
+    "assets/favicon.svg",
+    "assets/site.webmanifest",
+    "assets/web-app-manifest-192x192.png",
+    "assets/web-app-manifest-512x512.png"
+  ],
+  "changed": [
+    "404.html",
+    "index.html",
+    "news/index.html",
+    "site/**",
+    "feed.xml",
+    "favicon.ico"
+  ]
+}
