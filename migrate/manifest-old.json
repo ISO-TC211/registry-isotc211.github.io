@@ -1,0 +1,83 @@
+{
+  "tool": "migrate/inventory.mjs",
+  "dir": "_site",
+  "fileCount": 15,
+  "totalBytes": 139466,
+  "files": [
+    {
+      "path": "404.html",
+      "bytes": 8261,
+      "sha256": "e3c9f82257286c91418921aa6bfd4b03a08daac166369ff647e75f4d57a540be"
+    },
+    {
+      "path": "assets/iso-red.svg",
+      "bytes": 2844,
+      "sha256": "f459165a554e426378a9e1fb6d95d8e8295e2a315f07c55890de357f2505a136"
+    },
+    {
+      "path": "assets/logo-iso-noninverted.svg",
+      "bytes": 10344,
+      "sha256": "8ebb8c56f59df09d07c812f08e25bd1cad31f3f567cd642ab371b2c9b9dbe04e"
+    },
+    {
+      "path": "assets/logo-iso.svg",
+      "bytes": 16153,
+      "sha256": "8ebe5209cc9cccfbd405f0a05e009c90cfb0ee706bc15c79aa13f4869f8b7f77"
+    },
+    {
+      "path": "assets/logo-ribose.svg",
+      "bytes": 2979,
+      "sha256": "39b41e5ee7cd5ae9feb1e2738f70c9a9b52f2c0e007f249e4af1524d2e331dfb"
+    },
+    {
+      "path": "favicon.ico",
+      "bytes": 10990,
+      "sha256": "0fe3dae2b3f1715d3a6fd66d1ae3e256541b30352918b39a03afa9dbefdf0c0c"
+    },
+    {
+      "path": "feed.xml",
+      "bytes": 5132,
+      "sha256": "d5d49162d09825503bdb394da3441731419427336fe15e6d080e0674cf3cb154"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20314,
+      "sha256": "f32f91d786a241185599fb25cad163e3a38a854386c6b76a2405a9e6968cfb74"
+    },
+    {
+      "path": "news/index.html",
+      "bytes": 9551,
+      "sha256": "bb490ab8fe464ba7bb5ab3b9d08dddc003060276ed69e53a1ca0c195e294623e"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 26,
+      "sha256": "35293e9049de9d123f0437486bbbc2d990274c34efc90926c3e48ddef9cce669"
+    },
+    {
+      "path": "site/update/2019/06/06/registry-site-created.html",
+      "bytes": 9263,
+      "sha256": "9305ad1c05945a3edeab7cddc31a0b0db31b0e32fb802930df3b9f5775a0f1ef"
+    },
+    {
+      "path": "site/update/2026/05/06/site-redesign-modern-theme.html",
+      "bytes": 10607,
+      "sha256": "8a503b5eb69e4b08e359a551acf463abe1a4646a5dfe30cae3f02c90fd1cf29d"
+    },
+    {
+      "path": "vite/assets/application-CclK2K6t.js",
+      "bytes": 595,
+      "sha256": "c7781f0a2baeba44a4467f222b5674968edf08e3a49019046d940ddb5e05a97d"
+    },
+    {
+      "path": "vite/assets/application-DNBt1lHd.css",
+      "bytes": 5365,
+      "sha256": "f977c83fc3ddf82d2aeb1dc271cc7ba33c97c9946352e071959a599460bbb518"
+    },
+    {
+      "path": "vite/assets/application-Dz7ZYqm9.css",
+      "bytes": 27042,
+      "sha256": "956d7e72ac7792d5f338c723067347e0f648e2abe35932690d0454407a8acd0e"
+    }
+  ]
+}

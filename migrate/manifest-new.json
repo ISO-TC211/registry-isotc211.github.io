@@ -1,0 +1,123 @@
+{
+  "tool": "migrate/inventory.mjs",
+  "dir": "dist",
+  "fileCount": 23,
+  "totalBytes": 309726,
+  "files": [
+    {
+      "path": "404.html",
+      "bytes": 11602,
+      "sha256": "6458ff76af07f75fc23dc202c551980d3719902a627a1863180b713a07678c9e"
+    },
+    {
+      "path": "_astro/SiteLayout.nZJSjtFm.css",
+      "bytes": 34473,
+      "sha256": "0d594dfb9ab3edbe3433f290b1b194d85b89069d4cfba2d90553452777305300"
+    },
+    {
+      "path": "_astro/ThemeToggle.MWsto1OK.js",
+      "bytes": 1988,
+      "sha256": "d088d6c43be4fb6a47868f1ef828505b835318d66aac869c768d6241da950132"
+    },
+    {
+      "path": "_astro/client.D87jgCDW.js",
+      "bytes": 7247,
+      "sha256": "a086a747e92f991d354c27932d35020849ea28405966decc0765814924a47417"
+    },
+    {
+      "path": "_astro/runtime-core.esm-bundler.CDFedF5t.js",
+      "bytes": 67093,
+      "sha256": "6c8b7c695f047496e1321e9924fed280533420d2641084ceebc6cbc9f0078a4c"
+    },
+    {
+      "path": "assets/apple-touch-icon.png",
+      "bytes": 10060,
+      "sha256": "e0e7500801b235355be12e2bd316b876ab081a08407b43689be0f16a652e7612"
+    },
+    {
+      "path": "assets/favicon-96x96.png",
+      "bytes": 5105,
+      "sha256": "15c82f6cfa68042cc98603ef290a7b919cd5b6156cf66d58e8e47348d5bc47aa"
+    },
+    {
+      "path": "assets/favicon.ico",
+      "bytes": 15086,
+      "sha256": "e96b625d736bed028e7d483a68332fac88e50bc9ee6541875ef065b4f9432159"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 3120,
+      "sha256": "e698afd5c44100690f22deac7861dbd84b4e97cb205f0337c7103bd6b499eaab"
+    },
+    {
+      "path": "assets/iso-red.svg",
+      "bytes": 2844,
+      "sha256": "f459165a554e426378a9e1fb6d95d8e8295e2a315f07c55890de357f2505a136"
+    },
+    {
+      "path": "assets/logo-iso-noninverted.svg",
+      "bytes": 10344,
+      "sha256": "8ebb8c56f59df09d07c812f08e25bd1cad31f3f567cd642ab371b2c9b9dbe04e"
+    },
+    {
+      "path": "assets/logo-iso.svg",
+      "bytes": 16153,
+      "sha256": "8ebe5209cc9cccfbd405f0a05e009c90cfb0ee706bc15c79aa13f4869f8b7f77"
+    },
+    {
+      "path": "assets/logo-ribose.svg",
+      "bytes": 2979,
+      "sha256": "39b41e5ee7cd5ae9feb1e2738f70c9a9b52f2c0e007f249e4af1524d2e331dfb"
+    },
+    {
+      "path": "assets/site.webmanifest",
+      "bytes": 436,
+      "sha256": "91a78d4fe16316df93ec91b33a15c7ed84aab2b0de8a9959da40f108dfc2154e"
+    },
+    {
+      "path": "assets/web-app-manifest-192x192.png",
+      "bytes": 10955,
+      "sha256": "5208b1374b364f976247e348fc3959fa5220b4663fb69d370c9d6b6b15d36b81"
+    },
+    {
+      "path": "assets/web-app-manifest-512x512.png",
+      "bytes": 32976,
+      "sha256": "46ecdd333afdd4c8754852acfb5ef927b1e9046c437eaf6c28a81f9611d77ab6"
+    },
+    {
+      "path": "favicon.ico",
+      "bytes": 15086,
+      "sha256": "e96b625d736bed028e7d483a68332fac88e50bc9ee6541875ef065b4f9432159"
+    },
+    {
+      "path": "feed.xml",
+      "bytes": 972,
+      "sha256": "623ec85e0b1ccf90b2f67180dfe94099de11786e28eed0f838dbaf008150ff79"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22212,
+      "sha256": "ab0c8bc1c8639d0bdf70195a1157eda9a18d0cb7a60a1621f2e219f6fefae2c8"
+    },
+    {
+      "path": "news/index.html",
+      "bytes": 12804,
+      "sha256": "b4c15b13b1bb1ff4195517c903d61750a8bf27e90d1feda1d4e4c1a8d1fcff16"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 26,
+      "sha256": "35293e9049de9d123f0437486bbbc2d990274c34efc90926c3e48ddef9cce669"
+    },
+    {
+      "path": "site/update/2019/06/06/registry-site-created.html",
+      "bytes": 12503,
+      "sha256": "aa9cfc3119d3a7dbf8cb4d388d824a5f92131ee7aca0e6c2d87cab295c437e0a"
+    },
+    {
+      "path": "site/update/2026/05/06/site-redesign-modern-theme.html",
+      "bytes": 13662,
+      "sha256": "4bd9a608cca5bdccd10224d3ce699c3cef159c99dcb30c4b40233fa67e78f1d5"
+    }
+  ]
+}
