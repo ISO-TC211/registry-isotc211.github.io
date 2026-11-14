@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/vue": "^7.1.5",
-    "@isotc211/astro-ui": "github:ISO-TC211/astro-ui#0705c20464b18d985bb20eaa50d9d82daa709db0",
+    "@isotc211/astro-ui": "github:ISO-TC211/astro-ui#b2d6d6fed66f4439e408bb03e03d5ef24d241c68",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.3.5",
     "astro": "^7.4.11",
